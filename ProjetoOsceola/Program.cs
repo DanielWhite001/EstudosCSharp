@@ -3,7 +3,7 @@ namespace ProjetoOsceola;
 class Program
 {
     static void Main(string[] args)
-    {
+    { 
         int vida = 7;
          Console.WriteLine("a vida atual de Osceola é de: " + vida + "HP");
 

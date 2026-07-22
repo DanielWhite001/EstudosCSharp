@@ -42,8 +42,8 @@ class Program
 
     public static void Main(string[] args)
     {
-        Console.WriteLine("o valor do gasto fixo é de:" + gastoFixo);
-        Console.WriteLine("o valor do gasto variavel é de:" + gastosVariaveis);
+        Console.WriteLine("o valor do gasto fixo é de:" + gastoFixo + "R$");
+        Console.WriteLine("o valor do gasto variavel é de:" + gastosVariaveis + "R$");
         CalcularDespesaTotal();
     }
 }
